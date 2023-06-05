@@ -35,3 +35,6 @@ This is a simple Todo application built using Next.js and the shadcn/ui library.
 3. Install the dependencies::
     ```shell
     npm install
+    
+ ### Preview
+ Click [here](https://shadcn-todo.vercel.app/) to preview
