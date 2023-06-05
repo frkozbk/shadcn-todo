@@ -26,3 +26,13 @@ This is a simple Todo application built using Next.js and the shadcn/ui library.
 
    ```shell
    git clone https://github.com/frkozbk/shadcn-todo.git
+
+2. Navigate to the project directory:
+
+  ```shell
+  cd shadcn-todo
+
+3. Install the dependencies::
+
+  ```shell
+  npm install
